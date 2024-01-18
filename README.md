@@ -1,14 +1,16 @@
-<h1 align="center">
-    Hi, I'm Carina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h1>
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 </p>
 
-### My Tech Stack
+<h1 align="center">
+    Hi, I'm Carina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h1>
+
+### Languages
 [![my_tech_stack](https://skillicons.dev/icons?i=androidstudio,azure,blender,bootstrap,docker,flutter,git,github,gitlab,gradle,idea,java,js,kotlin,postgres,postman,py,react,spring,sqlite,ts,unity,visualstudio,&theme=dark)](https://skillicons.dev)
+
+### Technologies
 
 
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
