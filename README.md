@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi, I'm Carina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--
 **cajinh/cajinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Tech Stack
+[![my_tech_stack](https://skillicons.dev/icons?i=androidstudio,azure,blender,bootstrap,docker,flutter,git,github,gitlab,gradle,idea,java,js,kotlin,postgres,postman,py,react,spring,sqlite,ts,unity,visualstudio,&theme=dark)](https://skillicons.dev)
