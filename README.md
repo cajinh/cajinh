@@ -7,10 +7,10 @@
 </h1>
 
 ### Languages
-[![my_tech_stack](https://skillicons.dev/icons?i=androidstudio,azure,blender,bootstrap,docker,flutter,git,github,gitlab,gradle,idea,java,js,kotlin,postgres,postman,py,react,spring,sqlite,ts,unity,visualstudio,&theme=dark)](https://skillicons.dev)
+[![my_tech_stack](https://skillicons.dev/icons?i=flutter,git,java,js,kotlin,py,ts,&theme=dark)](https://skillicons.dev)
 
 ### Technologies
-
+[![my_tech_stack](https://skillicons.dev/icons?i=androidstudio,azure,blender,bootstrap,docker,github,gitlab,gradle,idea,postgres,postman,react,spring,sqlite,unity,visualstudio,&theme=dark)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
 <br><br>
